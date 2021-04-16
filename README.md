@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋
+
+Graduated in Mechanical Engineering with a sandwich degree in Telecommunications Engineering.
+<br>
+Newbie in the IT area, trying to learn as much as possible.
+
+- Currently learning HTML, CSS, JavaScript, React, Node.
 
 <!--
 **coutinholh/coutinholh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
